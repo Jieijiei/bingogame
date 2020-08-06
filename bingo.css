@@ -1,4 +1,6 @@
 .main{
-    font-size: 100px;
-    height: 150px;
+    font-size: 200px;
+    height: 300px;
+    color: red;
+    font-weight: 900;
 }

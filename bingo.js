@@ -13,7 +13,7 @@ let timerId;
 button.onclick = () => {
 
   if(targetNumber.length === 0){
-    alert('すべての番号の発表が終わりました') ;
+    alert('すべての番号の発表が終わりました！！') ;
     clearInterval(timerId);
     return;
   }

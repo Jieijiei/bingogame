@@ -10,13 +10,13 @@
   
   .square{
     box-sizing: border-box;
-    background-color: red;
+    background-color: white;
     border:solid 1px black;
     flex: 0 0 20%;
     position: relative;
   }
   .outer .gray{
-    background-color: gray;
+    background-color: rgb(255, 251, 0);
   }
   
   .square::before{
